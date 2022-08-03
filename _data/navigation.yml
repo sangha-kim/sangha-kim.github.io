@@ -1,10 +1,12 @@
 # main links
 main:
+  # 블로그 HOME 바로가기
   - title: "Home"
-    url: https://sangha-kim.github.io/ # 블로그 HOME 바로가기
-    
-   - title: "About" 
-     url: /about/ #_pages/about.md 연결
+    url: https://sangha-kim.github.io/ 
+  
+  #_pages/about.md 연결
+  - title: "About" 
+    url: /about/ 
      
   # - title: "Sample Posts"
   #   url: /year-archive/
