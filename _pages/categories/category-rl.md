@@ -1,7 +1,9 @@
-title: "ReinforcementLearning" # 카테고리 이름
+---
+title: "ReinforcementLearning" 
 layout: category
-permalink: /categories/reinforcementlearning/ # url
+permalink: /categories/reinforcementlearning/ 
 author_profile: true
 taxonomy: ReinforcementLearning
 sidebar:
-nav: "categories"
+  nav: "categories"
+--- 
